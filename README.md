@@ -1,15 +1,18 @@
+<p align="center"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.mikhaellopez.circularimageviewsample" title="Download on Google Play Store"><img src="http://i67.tinypic.com/2ij1d2r.jpg"></a></p>
+
 CircularImageView
 =================
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CircularImageView-green.svg?style=flat)](https://android-arsenal.com/details/1/2846)
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CircularImageView-lightgrey.svg?style=flat)](https://android-arsenal.com/details/1/2846)
+[![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
+[![API](https://img.shields.io/badge/API-11%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=11)
 [![Twitter](https://img.shields.io/badge/Twitter-@LopezMikhael-blue.svg?style=flat)](http://twitter.com/lopezmikhael)
-[![Maven Central](https://img.shields.io/maven-central/v/com.mikhaellopez/circularimageview.svg)](http://search.maven.org/#artifactdetails|com.mikhaellopez|circularimageview|2.0.2|)
 
 This is an Android project allowing to realize a circular ImageView in the simplest way possible.
 
-Image Result
------
-
-![Capture Project](http://i40.tinypic.com/10eiqfk.png)
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.mikhaellopez.circularimageviewsample">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>
 
 USAGE
 -----
@@ -17,7 +20,7 @@ USAGE
 To make a circular ImageView add CircularImageView in your layout XML and add CircularImageView library in your project or you can also grab it via Gradle:
 
 ```groovy
-compile 'com.mikhaellopez:circularimageview:2.0.2'
+compile 'com.mikhaellopez:circularimageview:2.1.1'
 ```
 
 XML
